@@ -3,7 +3,7 @@
 
 <p align="center">
 <p align="center">
-  bill/col/roman ... it/he male
+  bill ... it/he
 <p align="center">
 <img src="https://imgur.com/3NXkJzl.gif" width="50" height="50" />
 <p align="center">
